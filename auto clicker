@@ -1,12 +1,4 @@
-// ==UserScript==
-// @name         auto click 
-// @namespace    http://tampermonkey.net/
-// @version      1.9
-// @description  auto click pay button
-// @match        https://buy.tmall.com/*
-// @author       peter
-// @grant        none
-// ==/UserScript==
+
 
 //setTimeout(beginclick,30000);
 
